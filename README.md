@@ -36,8 +36,12 @@ Specs of the designed transceiver.
 
 ![Specs](docs/RFTx_specs.png)
 
-Bonus: Volunteering - Electronics Volunteer | SeeGoals, FIA Robotics (Linköping University, Sweden)
+Bonus - Electronics Volunteer at SeeGoals, FIA Robotics (Linköping University, Sweden)
 
 Volunteered as a hardware designer for a student-driven robotics organization, bridging the gap between hardware, firmware, and mechanical subsystems.
 PCB Design: Analyzed, designed, and tested custom PCBs for an autonomous, football-playing robot.
 Global Milestone: Our collective engineering efforts secured our team's qualification for RoboCup 2026, making us one of the very first teams representing Sweden to qualify.
+
+Top and bottom 3d renders of powerboard PCB, which is onboard the robot.
+![Lab Eval](docs/pwr_v3_3dTI.png)
+![Lab Eval](docs/pwr_v3_3dBI.png)
